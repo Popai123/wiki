@@ -16,8 +16,7 @@
  */
 ```
 + 类模板
-
-![image](/uploads/aa88823244f7915ba61061ed3a8afbb2/image.png)
+http://gitlab.zentech-inc.net/zentech/wiki/uploads/aa88823244f7915ba61061ed3a8afbb2/image.png
 
 ```java
 
